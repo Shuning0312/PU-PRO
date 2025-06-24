@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/purple python3
 # ============================================================
-#  File:    purple_edge_batch.py
+#  File:    purple_edge.py
 #  Author:  Shuning Sun
 #  Desc:    批量为视频帧/图像添加稀疏紫边伪影
 # ============================================================
